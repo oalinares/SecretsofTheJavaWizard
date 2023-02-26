@@ -14,7 +14,7 @@
 	<name>SecretsofTheJavaWizard</name>
 	<description>RPG application likes of Dnd and Secrets of The MUD Wizard book as a template.</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
